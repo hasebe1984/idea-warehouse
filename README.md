@@ -72,7 +72,7 @@ root
 ├── css/
 │   ├── base/            # リセットCSSなど
 │   ├── pages/           # 各ページ固有のCSS (questionInput.css, login.css 等)
-│   └── style.css        # 共通のベーススタイル
+│   └── style.css        # ★担当箇所：共通のベーススタイル
 ├── img/
 ├── includes/            # ★担当箇所：共通部品ディレクトリ
 │   ├── config.php       # 設定・セッション管理
